@@ -25,7 +25,7 @@
 
 <br/>
 
-<!-- Stats-o-Box -->
+<!-- Stats-o-Box
 <div align="center">
   <div style="background:#1a1b27; border-radius:16px; padding:24px 16px; display:inline-block; box-shadow:0 4px 20px 0 #12121240;">
     <table>
@@ -56,6 +56,7 @@
     </table>
   </div>
 </div>
+-->
 
 <br/>
 
